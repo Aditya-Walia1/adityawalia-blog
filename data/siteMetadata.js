@@ -14,7 +14,7 @@ const siteMetadata = {
   email: 'waliaaditya82@gmail.com',
   github: 'https://github.com/Aditya-Walia1',
   x: '',
-  
+
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
