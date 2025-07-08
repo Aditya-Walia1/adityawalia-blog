@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
 # Tailwind Nextjs Starter Blog
@@ -342,3 +343,6 @@ Using the template? Support this effort by giving a star on GitHub, sharing your
 ## Licence
 
 [MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/main/LICENSE) © [Timothy Lin](https://www.timlrx.com)
+=======
+# adityawalia-blog
+>>>>>>> 01cfa4add867fe013ffea05e593918c1c5eab7a7
