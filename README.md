@@ -77,6 +77,5 @@ Start writing in **Markdown** with **JSX** components!
 📸 Preview
 Home	Blog Post
 
-📢 License
 MIT License
 Built by Aditya Walia and Harmanjot Kaur
