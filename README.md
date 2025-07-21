@@ -1,4 +1,4 @@
-# Aditya Walia's Dev Blog 🚀
+# Blogging Website 🚀
 
 A clean, modern, and fast developer blog built using **Next.js 14 App Router**, **Tailwind CSS**, and **Contentlayer**.  
 This is my personal space to write about web development, programming tips, and software projects.
