@@ -79,4 +79,4 @@ Home	Blog Post
 
 📢 License
 MIT License
-Built by Aditya Walia
+Built by Aditya Walia and Harmanjot Kaur
